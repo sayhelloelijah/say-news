@@ -1,0 +1,19 @@
+{
+  "name": "say-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayhelloelijah/say-news.git"
+  },
+  "author": "sayhelloelijah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayhelloelijah/say-news/issues"
+  },
+  "homepage": "https://github.com/sayhelloelijah/say-news#readme"
+}
